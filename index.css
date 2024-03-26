@@ -20,10 +20,9 @@ h2 {
   display: inline-block
   width: 100px;
 }
- p {
-  color: 
- }
+
  .green-box {
-  color:aliceblue
-  
+   border: 1px solid red;
+
+
  }
