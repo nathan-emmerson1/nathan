@@ -24,6 +24,13 @@ h2 {
  .green-box {
    border: 1px solid red;
  }
- #chess-pic {
+ .chess-pic {
   border-radius: 50%;
  }
+.container {
+  text-align: center;
+}
+.myul {
+  display: inline-block;
+  text-align: left;
+}
