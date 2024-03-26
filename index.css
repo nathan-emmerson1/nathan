@@ -23,6 +23,7 @@ h2 {
 
  .green-box {
    border: 1px solid red;
-
-
+ }
+ #chess-pic {
+  border-radius: 50%;
  }
