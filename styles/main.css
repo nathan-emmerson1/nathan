@@ -11,14 +11,13 @@ body {
 @media screen and (min-width: 80rem) {
 }
 
-
 body {
-  background-color:  #fff685;
+  background-color: #fff685;
   text-align: center;
   font-family: 'Franklin Gothic Medium';
 }
 h1 {
-  color: #00DDFF;
+  color: #f14c0a;
   text-align: centre;
 }
 .red-text {
@@ -27,20 +26,30 @@ h1 {
 h2 {
   color: black font-family= monospace;
 }
-@media screen and (min-width: 80rem) {
-
+@media screen and (min-width: 760px) {
+  h1 {
+    color: #10e609;
+    text-align: centre;
   }
+  .chess-pic {
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+  }
+}
 .box {
-  display: inline-block
+  display: inline-block;
   width: 100px;
 }
 
- .green-box {
-   border: 1px solid red;
- }
- .chess-pic {
+.green-box {
+  border: 1px solid red;
+}
+.chess-pic {
   border-radius: 50%;
- }
+  height: 280px;
+  width: 280px;
+}
 .container {
   text-align: center;
 }
@@ -63,7 +72,7 @@ body {
 }
 
 body {
-  font-family: serif ;
+  font-family: serif;
   background-color: rgb(235, 240, 240);
   font-size: large;
 }
@@ -72,7 +81,3 @@ body {
   color: rgb(0, 0, 0);
   background-color: rgb(5, 236, 236);
 }
-p {
-}
-
-@media screen and (min-width: 80rem) 
